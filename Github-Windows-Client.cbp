@@ -34,6 +34,7 @@
 			<Add option="-mcpu=arm7tdmi" />
 			<Add option="-T ld/target.ld" />
 		</Linker>
+		<Unit filename="README.md" />
 		<Unit filename="h/at91sam7a3.h" />
 		<Unit filename="h/sam7a3ek.h" />
 		<Unit filename="ld/target.ld" />
